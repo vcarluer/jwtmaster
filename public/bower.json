@@ -1,0 +1,17 @@
+{
+  "name": "jwtmaster",
+  "authors": [
+    "Vincent Carluer <vincent.carluer@3ds.com>"
+  ],
+  "description": "json web toolkit master page",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
